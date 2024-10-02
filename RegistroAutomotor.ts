@@ -1,6 +1,6 @@
-import { Auto } from "./Auto";
-import { Camion } from "./Camion";
-import { Moto } from "./Moto";
+import { Auto } from "../Auto";
+import { Camion } from "../Camion";
+import { Moto } from "../Moto";
 
 
 
@@ -94,5 +94,3 @@ export class RegistroAutomotor {
         return info;
     }
 }
-
-
